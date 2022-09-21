@@ -1,4 +1,4 @@
-# Quizzical
+# Quizzical?
 
 This is a cute, polished puzzle game built in one weekend in summer 2022. It was built by Studio Gamma: Michael Gancz and Zacharie Sciamma. It's available [online](https://studiogamma.itch.io/quizzical2): can you solve it?
 
