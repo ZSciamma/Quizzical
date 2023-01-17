@@ -8,7 +8,7 @@ This is a cute, polished puzzle game built in one weekend in summer 2022. It was
 
 ## Authors
 
-Programming and graphics by Zacharie.
-Music, textures, and level design by Michael.
+Music, textures, and level design by Michael Gancz.
+Programming and graphics by Zacharie Sciamma.
 
 Sound effects from [freesound.org](https://freesound.org/)
